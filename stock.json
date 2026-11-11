@@ -1,0 +1,15 @@
+{
+  "tipoMovimiento": "SALIDA",
+  "fecha": "2026-09-24T16:20:35-03:00",
+  "referencia": "VENTA-154872",
+  "productos": [
+    {
+      "codigoProducto": "7791234567890",
+      "cantidad": 2
+    },
+    {
+      "codigoProducto": "7799876543210",
+      "cantidad": 1
+    }
+  ]
+}

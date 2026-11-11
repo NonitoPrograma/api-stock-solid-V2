@@ -1,0 +1,8 @@
+# Archivos de registros y datos de prueba
+stock.log
+*.tmp
+
+# Archivos del sistema operativo y VS Code
+.vscode/
+.DS_Store
+Thumbs.db
